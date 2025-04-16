@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AlemayehuBonsaYaddesa
+- 🌱 I’m Fullstack webdeveloper
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning Masters Of Business Administration
 - 💞️ I’m looking to collaborate on full stack Projects
 - 📫 How to reach me on email firaolbonsa123@gmail.com and on my phone numbers +251922777829
 
